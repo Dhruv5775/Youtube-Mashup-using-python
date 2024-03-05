@@ -4,5 +4,5 @@
 2. Make sure you have all the necessary requirements
 3. open the terminal/cmd prompt in the folder where file is stored
 4. run the folowwing command:-
-   python mashup.py "singer name" <number of videos> <audio time> <OutputFileName.mp3>
+   python mashup.py "singer name" numberOfVideos audioTime <OutputFileName.mp3>
    
